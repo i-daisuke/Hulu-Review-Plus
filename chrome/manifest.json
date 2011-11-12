@@ -1,0 +1,15 @@
+{
+	"name": "__MSG_appName__",
+	"version": "1.0.2",
+ 	"description": "__MSG_appDesc__",
+	"default_locale": "ja",
+	"permissions": ["http://flipclap.com/*"],
+	"content_scripts": [
+		{
+		"matches": ["http://www.hulu.jp/*","http://www.hulu.com/*"],
+		"css": ["style.css"],
+		"js": ["jquery.js", "main.js"],
+		"run_at": "document_end"
+    	}
+	]
+}
