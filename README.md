@@ -7,4 +7,4 @@ Huluのムービーページに、その映画のamazonのレビューを追加�
 
 * [Firefox](https://github.com/kanakogi/Hulu-Review-Plus/raw/master/firefox/HuluReviewPlus.user.js)
 
-* [Chrome](https://chrome.google.com/webstore/detail/ppbilfpkkcoipdiilbmdnlfenllfoonk?hl=ja)]
+* [Chrome](https://chrome.google.com/webstore/detail/ppbilfpkkcoipdiilbmdnlfenllfoonk?hl=ja)
